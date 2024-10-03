@@ -36,7 +36,7 @@ For building and running the application you need:
 
 #### Backend
 ```
-$ git clone https://github.com/Chat-east/backend.git
+$ git clone https://github.com/kiwijuse/Chat-east.git
 $ sudo apt update
 $ sudo apt install mysql-server
 $ sudo mysql_secure_installation
@@ -58,7 +58,7 @@ $ nodemon index.js
 
 #### Frontend
 ```
-$ git clone https://github.com/Chat-east/android.git
+$ git clone https://github.com/kiwijuse/Chat-east.git
 ```
 #### Post-Setup Configuration
 ```
