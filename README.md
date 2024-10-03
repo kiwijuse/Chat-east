@@ -9,8 +9,8 @@
 
 ## 깃 주소
 
-> **프론트 엔드** : [https://github.com/Chat-east/android.git](https://github.com/Chat-east/android.git)<br>
-> **백 엔드** : [https://github.com/Chat-east/backend.git](https://github.com/Chat-east/backend.git)<br>
+> **프론트 엔드** : [https://github.com/kiwijuse/Chat-east/tree/main/Android](https://github.com/kiwijuse/Chat-east/tree/main/Android)<br>
+> **백 엔드** : [https://github.com/kiwijuse/Chat-east/tree/main/Backend](https://github.com/kiwijuse/Chat-east/tree/main/Backend)<br>
 
 ## 개발팀 소개
 
@@ -72,6 +72,8 @@ $ git clone https://github.com/Chat-east/android.git
 1. 생성한 Firebase 프로젝트에 Chat-east 앱을 등록합니다.
 2. 프로젝트 설정 - 일반 - 내 앱에서 접속할 곳의 SHA1(SHA 256) 키를 등록합니다.
 3. 생성된 google-services.json 파일을 'android/Chat_east/app/'에 붙여넣습니다.
+
+⭐️ 서버 또는 로컬 주소는 'Android/README.txt' 파일을 참조하여 설정해 주세요.
 ```
 ---
 ## Stacks 🐈
@@ -119,7 +121,7 @@ $ git clone https://github.com/Chat-east/android.git
 
 | 친구 리스트 뷰  |  프로필 설정 뷰   | 친구 태그로 친구 추가 뷰 |
 | :-------------------------------------------: | :------------: | :------------: |
-|  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Main_Friend.jpg"/> |  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Edit_Profile.jpg"/> | <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Add_Friend_Tag.jpg"/> |
+|  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Main_Friend.jpg"/> |  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Edit_Profile.jpg"/> | <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Add_Friend_Tag.jpg"/> |
 
 </div>
 
@@ -132,11 +134,11 @@ $ git clone https://github.com/Chat-east/android.git
 
 | 채팅 리스트 뷰  |  채팅 방 뷰  | 채팅방 알림 기능 뷰 |
 | :-------------------------------------------: | :------------: | :------------: |
-|  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Add_Friend_Tag.jpg"/> |  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Chatting_Room.jpg"/>| <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Notification.jpg"/> |
+|  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Main_Chatroom.jpg"/> |  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Chatting_Room.jpg"/>| <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Notification.jpg"/> |
 |  채팅 사이드바 뷰  | 전화 뷰 |  사진 앨범 뷰  |
-|  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Chatting_Sidebar.jpg"/>  | <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Connect_Call.jpg"/>   |  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Image_Album.jpg"/>  |
+|  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Chatting_Sidebar.jpg"/>  | <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Connect_Call.jpg"/>   |  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Image_Album.jpg"/>  |
 | 친구 초대 뷰 |  채팅방 만들기 뷰  | 채팅방 부가기능 뷰 |
-| <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Invite_Friend.jpg"/>   |  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Make_Chatroom.jpg"/>  |  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Chatting_Plus.jpg"/>  |
+| <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Invite_Friend.jpg"/>   |  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Make_Chatroom.jpg"/>  |  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Chatting_Plus.jpg"/>  |
 
 </div>
 
@@ -149,7 +151,7 @@ $ git clone https://github.com/Chat-east/android.git
 
 | 설정 리스트 뷰  |  알림 설정 뷰  |
 | :-------------------------------------------: | :------------: |
-|  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Main_Setting.jpg"/> |  <img width="225" src="https://github.com/Chat-east/android/blob/main/Image/Notification_Setting.jpg"/>|
+|  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Main_Setting.jpg"/> |  <img width="225" src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Notification_Setting.jpg"/>|
 
 </div>
 
@@ -161,7 +163,7 @@ $ git clone https://github.com/Chat-east/android.git
 <div align="center">
 
 <a href="https://youtu.be/KcvXNEZWzU0" target="_blank">
-  <img src="https://github.com/Chat-east/android/blob/main/Image/Preview.png" alt="Video Label" width="500"/>
+  <img src="https://github.com/kiwijuse/Chat-east/blob/main/Android/Image/Preview.png" alt="Video Label" width="500"/>
 </a>
 
 </div>
