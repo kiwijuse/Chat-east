@@ -73,7 +73,7 @@ $ git clone https://github.com/Chat-east/android.git
 2. 프로젝트 설정 - 일반 - 내 앱에서 접속할 곳의 SHA1(SHA 256) 키를 등록합니다.
 3. 생성된 google-services.json 파일을 'android/Chat_east/app/'에 붙여넣습니다.
 
-⭐️ 서버 또는 로컬 주소는 'Android/.env' 파일을 참조하여 설정해 주세요.
+⭐️ 서버 또는 로컬 주소는 'Android/README.txt' 파일을 참조하여 설정해 주세요.
 ```
 ---
 ## Stacks 🐈
