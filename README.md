@@ -9,8 +9,8 @@
 
 ## 깃 주소
 
-> **프론트 엔드** : [https://github.com/Chat-east/android.git](https://github.com/Chat-east/android.git)<br>
-> **백 엔드** : [https://github.com/Chat-east/backend.git](https://github.com/Chat-east/backend.git)<br>
+> **프론트 엔드** : [https://github.com/kiwijuse/Chat-east/tree/main/Android](https://github.com/kiwijuse/Chat-east/tree/main/Android)<br>
+> **백 엔드** : [https://github.com/kiwijuse/Chat-east/tree/main/Backend](https://github.com/kiwijuse/Chat-east/tree/main/Backend)<br>
 
 ## 개발팀 소개
 
